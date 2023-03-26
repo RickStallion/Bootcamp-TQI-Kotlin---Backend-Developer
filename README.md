@@ -1,4 +1,5 @@
-[![Bootcamp-TQI-Kotlin](/assets/images/bootcamp.jpg "TQI")](https:https://www.tqi.com.br/)
+![](/assets/images/bootcamp.jpg "TQI")
+
 # Bootcamp-TQI-Kotlin
 **Conhecimentos adquiridos com o Curso da DIO, voltado para o BootCamp TQI Kotlin - BackEnd Developer.**
 
