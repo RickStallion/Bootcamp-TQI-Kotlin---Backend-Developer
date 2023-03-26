@@ -1,6 +1,6 @@
-**Introdução ao desenvolvimento moderno de Software**
+#### ETAPAS DE DESENVOLVIMENTO DE UM SOFTWARE
 
- 
+
 
 **1 >** Definir a plataforma, se vai ser **Desktop ou Web**, se vai ter um instalador direto na maquina ou se vai ser acessado via web.
 
@@ -12,13 +12,13 @@
 
 Em **resumo:** UX > focado no comportamento do software é responsável por, pesquisa, protótipos, personas e objetivos. Já o UI > focado na aparência sendo responsável por, design, tipografia, cores e layouts.
 
-![Image](/assets/images/clip_image002.jpg)
+![Image](/assets/images/clip_image0002.jpg)
 
  
 
 **4 > Modelo Cliente-Servidor:** o profissional responsável por criar a aplicação a nivel cliente é o Desenvolvedor Front End e para o servidor temos o Desenvolverdor Back End.
 
-![Image](/assets/images/clip_image004.jpg)
+![Image](/assets/images/clip_image0004.jpg)
 
  
 
@@ -28,7 +28,7 @@ Em **resumo:** UX > focado no comportamento do software é responsável por, pes
 
 **Para ajudar no desenvolvimento dos códigos, temos as IDE:**
 
-![Image](/assets/images/clip_image006.jpg)
+![Image](/assets/images/clip_image0006.jpg)
 
  
 
@@ -48,7 +48,7 @@ O Back-End trabalha em boa parte dos casos fazendo a ponte entre os dados que ve
 
 **API:** Também está dentro das atribuições de um back-end as API **-** Acrônimo de Application Programming Interface (Interface de programação de aplicativos), um intermediário de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um app como o Facebook, envia uma mensagem instantânea ou verifica a previsão do tempo em seu telefone, você está usando uma API.
 
-**Ex:** ![Image](/assets/images/clip_image008.jpg)
+**Ex:** ![Image](/assets/images/clip_image0008.jpg)
 
 Não esquecendo que o mesmo também tem que se preocupar com a segurança, para que o sistema não seja hackeado.
 
@@ -78,7 +78,7 @@ O profissional de Quality Assurance deve ter conhecimentos sobre as atividades d
 
 **imagens de alguns:** 
 
-![Image](/assets/images/clip_image010.jpg)
+![Image](/assets/images/clip_image0010.jpg)
 
  
 
@@ -89,3 +89,6 @@ Algumas vantagens de migrar para a nuvem pública: Preço (pague somente o que u
  
 
 **7 > Desenvolvimento Mobile:** para o desenvolviemnto Mobile, também temos o dev front e back end, e teremos a programação voltada para cada uma das plataformas "Android (Andoid Studio) e IOS(Xcode)" e temos também o desenvolvimento híbrido (web) o código gerado atende os dois mundos **ex: IONIC, FLUTTER, REACT NATIVE**.
+
+ 
+
