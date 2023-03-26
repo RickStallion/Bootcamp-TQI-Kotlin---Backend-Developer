@@ -12,13 +12,13 @@
 
 Em **resumo:** UX > focado no comportamento do software é responsável por, pesquisa, protótipos, personas e objetivos. Já o UI > focado na aparência sendo responsável por, design, tipografia, cores e layouts.
 
-![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![Image](/assets/images/clip_image002.jpg)
 
  
 
 **4 > Modelo Cliente-Servidor:** o profissional responsável por criar a aplicação a nivel cliente é o Desenvolvedor Front End e para o servidor temos o Desenvolverdor Back End.
 
-![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![Image](/assets/images/clip_image004.jpg)
 
  
 
@@ -28,7 +28,7 @@ Em **resumo:** UX > focado no comportamento do software é responsável por, pes
 
 **Para ajudar no desenvolvimento dos códigos, temos as IDE:**
 
-![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![Image](/assets/images/clip_image006.jpg)
 
  
 
@@ -48,7 +48,7 @@ O Back-End trabalha em boa parte dos casos fazendo a ponte entre os dados que ve
 
 **API:** Também está dentro das atribuições de um back-end as API **-** Acrônimo de Application Programming Interface (Interface de programação de aplicativos), um intermediário de software que permite que dois aplicativos conversem entre si. Cada vez que você usa um app como o Facebook, envia uma mensagem instantânea ou verifica a previsão do tempo em seu telefone, você está usando uma API.
 
-**Ex:** ![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+**Ex:** ![Image](/assets/images/clip_image008.jpg)
 
 Não esquecendo que o mesmo também tem que se preocupar com a segurança, para que o sistema não seja hackeado.
 
@@ -78,7 +78,7 @@ O profissional de Quality Assurance deve ter conhecimentos sobre as atividades d
 
 **imagens de alguns:** 
 
-![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![Image](/assets/images/clip_image010.jpg)
 
  
 
