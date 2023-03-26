@@ -178,15 +178,15 @@ Esse projeto iniciará com o objetivo de criar um modelo de fone de ouvido e pas
 
 ![Image](/assets/images/clip_image006.jpg)
 
-![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![Image](/assets/images/clip_image008.jpg)
 
  
 
  
 
-**Modeo Ágil**
+**Modelo Ágil**
 
-![Image](/assets/images/clip_image009.jpg)
+![Image](/assets/images/clip_image010.jpg)
 
  
 
