@@ -6,6 +6,8 @@
 ##Seguirei atualizando conforme for finalizando as étapas.
 
 ###### 1- Introdução Desenvolvimento Moderno Software
+###### 2- Trabalhando em Equipe Ágeis
+###### 2- Pensamento Computacional
 
 
 
