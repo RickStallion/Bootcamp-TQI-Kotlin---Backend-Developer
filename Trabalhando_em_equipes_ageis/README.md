@@ -176,9 +176,9 @@ Esse projeto iniciará com o objetivo de criar um modelo de fone de ouvido e pas
 
  
 
-![Image](/assets/images/clip_image005.jpg)
+![Image](/assets/images/clip_image006.jpg)
 
-![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg)
+![Image](file:///C:/Users/Ricardo/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
 
  
 
