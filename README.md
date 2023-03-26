@@ -7,7 +7,7 @@
 
 ###### 1- Introdução Desenvolvimento Moderno Software
 ###### 2- Trabalhando em Equipe Ágeis
-###### 2- Pensamento Computacional
+###### 3- Pensamento Computacional
 
 
 
