@@ -16,13 +16,13 @@ Então ser rápido não é ser ágil.
 
  
 
-![Image](/assets/images/clip_image001.jpg)
+![Image](/assets/images/clip_image002.jpg)
 
 **Valores do Manifesto ágil, segue abaixo a imagem:**
 
  
 
-![Image](/assets/images/clip_image003.jpg)
+![Image](/assets/images/clip_image004.jpg)
 
  
 
