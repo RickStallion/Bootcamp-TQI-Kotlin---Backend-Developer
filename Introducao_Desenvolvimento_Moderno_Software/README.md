@@ -89,27 +89,3 @@ Algumas vantagens de migrar para a nuvem pública: Preço (pague somente o que u
  
 
 **7 > Desenvolvimento Mobile:** para o desenvolviemnto Mobile, também temos o dev front e back end, e teremos a programação voltada para cada uma das plataformas "Android (Andoid Studio) e IOS(Xcode)" e temos também o desenvolvimento híbrido (web) o código gerado atende os dois mundos **ex: IONIC, FLUTTER, REACT NATIVE**.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
